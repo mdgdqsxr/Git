@@ -3,6 +3,10 @@ hello git! hello git world! mdgqdsxr commit
 hello git! hello git world!
 hello git! hello git world!lanbkl fork commit
 hello git! hello git world!
+hello git! hello git world!
 hello git!
 hello git! hello git world!master commit 
 hello git! hello git world!fix - bug commit
+hello git! hello git world!push commit
+hello git!github add commit
+hello git! gitee add commit test
